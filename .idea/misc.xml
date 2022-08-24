@@ -3,9 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2045" />
+        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/drawable-v24/pink_background.xml" value="0.242" />
         <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_home.xml" value="0.176" />
-        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_login.xml" value="0.30198019801980197" />
-        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_register.xml" value="0.378125" />
+        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Users/Fachry Ramadhan/AndroidStudioProjects/LoginRegister/app/src/main/res/layout/activity_register.xml" value="0.2" />
       </map>
     </option>
   </component>
